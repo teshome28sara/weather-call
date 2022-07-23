@@ -1,0 +1,31 @@
+.top-container{
+    text-align: center;
+  }
+  
+  .listContainer{
+    background-color: skyblue;
+  }
+  
+  .list-group{
+    list-style: none;
+    cursor: pointer;
+  }
+  
+  .searchBtn{
+    background-color: blue;
+  }
+  
+  .clearBtn{
+    background-color: rebeccapurple;;
+  }
+  
+  .weatherContent{
+    background-color: aqua;;
+  }
+  
+  .enterCity{
+    border-radius: 10px;
+    ;
+  }
+  
+  
